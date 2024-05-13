@@ -2,12 +2,6 @@
 
 A Python-based encryption/decryption tool with a graphical user interface (GUI) implemented using Tkinter.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Algorithm](#algorithm)
-- [GUI](#gui)
-
 ## Introduction
 
 This project aims to provide a tool for encryption/decryption with an interactive GUI. The application utilizes a version of the AES-256 encryption algorithm to protect short messages. 
