@@ -17,6 +17,7 @@ The graphical user interface is implemented using Tkinter, providing users with 
 ## Learn More...
 
 https://csrc.nist.gov/csrc/media/projects/block-cipher-techniques/documents/bcm/proposed-modes/eax/eax-spec.pdf
+
 https://en.wikipedia.org/wiki/EAX_mode
 
 
