@@ -20,5 +20,9 @@ https://csrc.nist.gov/csrc/media/projects/block-cipher-techniques/documents/bcm/
 
 https://en.wikipedia.org/wiki/EAX_mode
 
+https://docs.python.org/3/library/tk.html
+
+https://tkdocs.com/
+
 
 
