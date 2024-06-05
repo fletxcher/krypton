@@ -14,7 +14,7 @@ The AES-256 encryption algorithm, more specifically the block cipher mode of ope
 
 The graphical user interface is implemented using Tkinter, providing users with an interactive platform to input messages that either need to be encrypted or decrypted, and then either obscure or reveal the message.
 
-## Resources
+## Resources:
 
 https://csrc.nist.gov/csrc/media/projects/block-cipher-techniques/documents/bcm/proposed-modes/eax/eax-spec.pdf
 
